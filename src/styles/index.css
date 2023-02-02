@@ -19,19 +19,17 @@
     margin: auto
 }
 
-.traffic{
+.pole{
     height: 150px;
     width: 30px;
     background-color: rgb(53, 49, 49);
     box-shadow: 0px 0px 5px black, inset 0px 0px 10px black;
-    margin: auto
 }
 
-.color {
+.light {
     width: 90px;
     height: 90px;
     border-radius: 50%;
-    margin: auto;
 }
 
 .iluminado {
